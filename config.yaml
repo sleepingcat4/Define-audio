@@ -1,0 +1,6 @@
+data_root: data
+ckpt_root: ckpt
+hf_cache: weights/hf_cache
+f5_ckpt: weights/F5TTS_v1_Base/model_1250000.safetensors
+vocoder: weights/vocos-mel-24khz
+ssl_model: weights/wav2vec2-xls-r-300m
